@@ -16,5 +16,7 @@ use a priority queue? nlogk
 o(n), n^2 if already sorted
 
 -----
-start with easy problems 
+start with easy problems - spend at msot one hr - look at sln and code it out
+https://leetcode.com/problem-list/top-interview-questions/
+
 
