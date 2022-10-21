@@ -130,10 +130,12 @@
     "currentTab": 0
   },
   "ribbon": {
-    "mostRecentAction": ""
+    "mostRecentAction": "New Excalidraw drawing"
   },
   "active": "a46a5ce1132c6add",
   "lastOpenFiles": [
-    "leetcode/Ultimate leetcode tricks.md"
+    "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
+    "leetcode/Ultimate leetcode tricks.md",
+    "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md"
   ]
 }
