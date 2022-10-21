@@ -7,6 +7,14 @@ returns the index of where the target should be if it does not exist
 why this is useful - the value + 1 returns the last idx of value
 	find an element's first and last position on ologn time
 
-## Deque
-double ended queue, add/remove from both ends
+## Inorder traversal of a BST
+nodes are visited in ascending order o(n), validate whether is a bst
+
+## Quick Select
+to find kth element in an unordered list
+use a priority queue? nlogk
+o(n), n^2 if already sorted
+
+-----
+start with easy problems 
 
