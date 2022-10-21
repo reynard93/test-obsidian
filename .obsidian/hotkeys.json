@@ -16,5 +16,14 @@
       ],
       "key": "="
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "0"
+    }
   ]
 }
