@@ -17,9 +17,5 @@ o(n), n^2 if already sorted
 
 -----
 start with easy problems - spend at msot one hr - look at sln and code it out
-https://leetcode.com/problem-list/top-interview-questions/
-make explicit implicit
 
-- [[Drawing 2022-10-21 17.16.53.excalidraw]]
-- Add this silly drawing
  
