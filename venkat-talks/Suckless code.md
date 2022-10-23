@@ -11,4 +11,4 @@ code quality -> easy to understand
 9. [[2022-10-23#Avoid Long Methods - Apply SLAP|Avoid Long Methods]]
 10. Give Good Meaningful Names
 11. [[2022-10-23#^d537e8|Do Tactical Code Reviews]] 
-12. 
+12. Reduce State & State Mutation
