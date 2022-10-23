@@ -11,5 +11,3 @@
 	
 	not just link to but also embed part of the note
 	![[README]]
-
-dddss
