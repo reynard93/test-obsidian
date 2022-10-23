@@ -11,12 +11,8 @@
             "id": "52e603b365ee030c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing comments is like explaining a joke.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing comments is like explaining a joke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing comments is like explaining a joke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Writing comments is like explaining a joke.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +143,8 @@
   "active": "52e603b365ee030c",
   "lastOpenFiles": [
     "2022-10-23.md",
-    "venkat-talks/Suckless code.md",
     "Writing comments is like explaining a joke.md",
+    "venkat-talks/Suckless code.md",
     "Writing Well.md",
     "obsidian/tips.md",
     "Apply Zinsser's Principle on Writing.md",
