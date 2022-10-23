@@ -1,6 +1,6 @@
 
 ##[Obsidian no plugins](https://www.youtube.com/watch?v=5qRVquqRH0k&ab_channel=NicolevanderHoeven) 
-	how to link notes, learn how to use markdown
+	how to [link notes](https://www.youtube.com/watch?v=5qRVquqRH0k&ab_channel=NicolevanderHoeven), learn how to use markdown
 
 	you can change the name of the link
 	
