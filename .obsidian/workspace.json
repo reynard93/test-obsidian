@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tips.md",
+                "file": "venkat-talks/Suckless code.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
-                "mode": "preview",
+                "file": "coding/Beck's Rule for Simple Design.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +160,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "073305141264e382",
+  "active": "df19379967fa85c2",
   "lastOpenFiles": [
+    "coding/Beck's Rule for Simple Design.md",
+    "venkat-talks/Suckless code.md",
     "obsidian/tips.md",
     "leetcode/Ultimate leetcode tricks.md",
     "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
