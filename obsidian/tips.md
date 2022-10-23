@@ -1,0 +1,1 @@
+how to link notes, learn how to use markdown
