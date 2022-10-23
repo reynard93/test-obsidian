@@ -6,3 +6,4 @@ code quality -> easy to understand
 4. [[Beck's Rule for Simple Design|Program with Intention (list is in priority order)]]
 5. Avoid primitive Obsession
 6. Prefer Clear Code over Clever Code
+7. [[Writing Well|Apply Zinsser's Principle on Writing]]
