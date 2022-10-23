@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c094fd043bb0661",
+        "id": "7ba815fd881ffc85",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f02ee5da376dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "733a49d1a5466c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d5591634fbca358",
+            "id": "df19379967fa85c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
+                "file": "obsidian/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
+                "file": "obsidian/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md"
+                "file": "obsidian/tips.md"
               }
             }
           },
@@ -173,10 +148,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "733a49d1a5466c62",
+  "active": "c42a387dd1ccdc3a",
   "lastOpenFiles": [
-    "obsidian/tips.md",
     "leetcode/Ultimate leetcode tricks.md",
+    "obsidian/tips.md",
     "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
     "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md",
     "conflict-files-obsidian-git.md"

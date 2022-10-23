@@ -13,9 +13,7 @@ nodes are visited in ascending order o(n), validate whether is a bst
 ## Quick Select
 to find kth element in an unordered list
 use a priority queue? nlogk
-o(n), n^2 if already sorted
+o(n), n^2 if already sorted ^c3384f
 
 -----
 start with easy problems - spend at msot one hr - look at sln and code it out
-
- 
