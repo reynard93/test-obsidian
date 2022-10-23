@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "066486d6e8c81bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "daily/2022-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7b8047dc8578b4d4",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "daily/2022-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "daily/2022-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "venkat-talks/Suckless code.md"
+                "file": "daily/2022-10-23.md"
               }
             }
           },
@@ -163,8 +152,8 @@
   "active": "8f5de21f79681155",
   "lastOpenFiles": [
     "daily/2022-10-23.md",
-    "coding/Beck's Rule for Simple Design.md",
     "venkat-talks/Suckless code.md",
+    "coding/Beck's Rule for Simple Design.md",
     "obsidian/tips.md",
     "Untitled.md",
     "Writing Well.md",
