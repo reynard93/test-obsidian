@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8c609b353ee563",
+        "id": "39a99db8beee48f0",
         "type": "tabs",
         "children": [
           {
-            "id": "52e603b365ee030c",
+            "id": "d8197213196355c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -140,16 +140,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "52e603b365ee030c",
+  "active": "c42a387dd1ccdc3a",
   "lastOpenFiles": [
     "2022-10-23.md",
-    "Writing comments is like explaining a joke.md",
     "venkat-talks/Suckless code.md",
     "Writing Well.md",
+    "leetcode/Ultimate leetcode tricks.md",
+    "Writing comments is like explaining a joke.md",
     "obsidian/tips.md",
     "Apply Zinsser's Principle on Writing.md",
     "coding/Beck's Rule for Simple Design.md",
-    "leetcode/Ultimate leetcode tricks.md",
     "dsd.md",
     "README.md"
   ]

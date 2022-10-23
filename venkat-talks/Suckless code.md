@@ -6,6 +6,6 @@ code quality -> easy to understand
 4. [[Beck's Rule for Simple Design|Program with Intention (list is in priority order)]]
 5. Avoid primitive Obsession
 6. Prefer Clear Code over Clever Code
-7. [[Writing Well|Apply Zinsser's Principle on Writing]]
-8. Comment Why, not What [[Writing comments is like explaining a joke#^45c2fe]]
-9. 
+7. [[2022-10-23#On Writing Well|Apply Zinsser's Principle on Writing]]
+8. Comment Why, not What  [[2022-10-23#^c90bc4|A good code is like a good joke]]
+9. Avoid Long Methods - Apply SLAP
