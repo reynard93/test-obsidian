@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "8d5eda40b8b4e188",
+    "type": "split",
+    "children": [
+      {
+        "id": "26129d0e8cbb6cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46a5ce1132c6add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/Ultimate leetcode tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8250c06ff4ddd728",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1ca28cb9fbc160ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "482582dd5ab34bac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b87ae237dbb0761d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "63795033dac3ac69",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "92c75354e29ed1a4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be4f2bdc9712b9a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "leetcode/Ultimate leetcode tricks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8f9bfd56c3b2fac0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "leetcode/Ultimate leetcode tricks.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b13e0963eefc0dc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "leetcode/Ultimate leetcode tricks.md"
+          }
+        }
+      },
+      {
+        "id": "3a31c55171003dfd",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": "New Excalidraw drawing"
+  },
+  "active": "a46a5ce1132c6add",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
+    "leetcode/Ultimate leetcode tricks.md",
+    "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md"
+  ]
+}
