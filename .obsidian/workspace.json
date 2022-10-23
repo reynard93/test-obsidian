@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "Writing comments is like explaining a joke.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "Writing comments is like explaining a joke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "Writing comments is like explaining a joke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "venkat-talks/Suckless code.md"
+                "file": "Writing comments is like explaining a joke.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "52e603b365ee030c",
   "lastOpenFiles": [
+    "2022-10-23.md",
+    "venkat-talks/Suckless code.md",
+    "Writing comments is like explaining a joke.md",
     "Writing Well.md",
     "obsidian/tips.md",
     "Apply Zinsser's Principle on Writing.md",
-    "venkat-talks/Suckless code.md",
     "coding/Beck's Rule for Simple Design.md",
     "leetcode/Ultimate leetcode tricks.md",
     "dsd.md",
-    "README.md",
-    "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md"
+    "README.md"
   ]
 }

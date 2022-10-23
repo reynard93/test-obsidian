@@ -7,5 +7,5 @@ code quality -> easy to understand
 5. Avoid primitive Obsession
 6. Prefer Clear Code over Clever Code
 7. [[Writing Well|Apply Zinsser's Principle on Writing]]
-8. Comment Why, not What
+8. Comment Why, not What [[Writing comments is like explaining a joke#^45c2fe]]
 9. 
