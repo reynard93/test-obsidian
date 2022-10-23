@@ -16,4 +16,4 @@ use a priority queue? nlogk
 o(n), n^2 if already sorted ^c3384f
 
 -----
-start with easy problems - spend at msot one hr - look at sln and code it out
+start with easy problems - spend at most one hr - look at sln and code it out

@@ -11,8 +11,12 @@
             "id": "df19379967fa85c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "venkat-talks/Suckless code.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "venkat-talks/Suckless code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "venkat-talks/Suckless code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "venkat-talks/Suckless code.md"
+              }
             }
           },
           {
@@ -152,14 +160,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c42a387dd1ccdc3a",
+  "active": "df19379967fa85c2",
   "lastOpenFiles": [
-    "README.md",
-    "venkat-talks/Suckless code.md",
-    "coding/Beck's Rule for Simple Design.md",
-    "obsidian/tips.md",
-    "dsd.md",
     "leetcode/Ultimate leetcode tricks.md",
+    "obsidian/tips.md",
+    "venkat-talks/Suckless code.md",
+    "dsd.md",
+    "README.md",
+    "coding/Beck's Rule for Simple Design.md",
     "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
     "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md",
     "conflict-files-obsidian-git.md"
