@@ -27,7 +27,7 @@
               "state": {
                 "file": "leetcode/Ultimate leetcode tricks.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/tips.md",
+                "file": "leetcode/Ultimate leetcode tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/tips.md",
+                "file": "leetcode/Ultimate leetcode tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/tips.md"
+                "file": "leetcode/Ultimate leetcode tricks.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1d5591634fbca358",
+  "active": "733a49d1a5466c62",
   "lastOpenFiles": [
+    "obsidian/tips.md",
     "leetcode/Ultimate leetcode tricks.md",
     "Excalidraw/Drawing 2022-10-21 17.18.10.excalidraw.md",
     "Excalidraw/Drawing 2022-10-21 17.16.53.excalidraw.md",
