@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "0984d1805ac6448e",
+        "id": "dd77f0c1b187576f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc79b152804121c5",
+            "id": "313e522702903dd4",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentations/New presentation.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           },
