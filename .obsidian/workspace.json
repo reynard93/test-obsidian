@@ -29,26 +29,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alf-project-wf/Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312a22179f527df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "alf-project-wf/notes-archive/20221024 - to-complete.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "alf-project-wf/notes-archive/20221024 - to-complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "alf-project-wf/notes-archive/20221024 - to-complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "alf-project-wf/notes-archive/20221024 - to-complete.md"
               }
             }
           },
@@ -177,17 +165,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "312a22179f527df0",
+  "active": "937bdc2026e56100",
   "lastOpenFiles": [
+    "alf-project-wf/notes/20221024 - nice-pro.md",
+    "alf-project-wf/notes-archive/20221024 - to-complete.md",
+    "alf-project-wf/completed/1.md",
+    "alf-project-wf/completed/2.md",
     "alf-project-wf/support/20221024 - nice-pro/dsdad.md",
     "alf-project-wf/Projects.md",
-    "alf-project-wf/support/20221024 - to-complete/2.md",
-    "alf-project-wf/support/20221024 - to-complete/1.md",
-    "alf-project-wf/notes/20221024 - to-complete.md",
-    "alf-project-wf/notes-archive/20221024 - dog.md",
     "project.md",
-    "alf-project-wf/notes-archive/20221024 - comp[leted.md",
-    "alf-project-wf/notes-archive/20221024 - dog/dog stfu.md",
-    "alf-project-wf/notes/20221024 - dog.md"
+    "daily/2022-10-24.md",
+    "alf-project-wf/support/20221024 - to-complete/2.md",
+    "alf-project-wf/support/20221024 - to-complete/1.md"
   ]
 }
