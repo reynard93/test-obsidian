@@ -39,3 +39,11 @@ side effect free functions
 different groups have different views on the same model
 it is the boundary within a domain where a particular domain model applies
 ubiq language unique per bounded context, a natural way to split up your model
+
+DRY vs Coupling across bounded contexts, Can't have both
+if we want to have DRY we will increase coupling, there is a trade-off
+inside a BC, DRY is very important
+reducing coupling is more important across bounded contexts
+	why?
+	autonomous, can evolve alone
+	decreased cognitive load -> only have to think about own bounded context
