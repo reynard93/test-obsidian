@@ -37,3 +37,4 @@ side effect free functions
 
 ### Bounded Context
 different groups have different views on the same model
+it is the boundary within a domain where a particular domain model applies
