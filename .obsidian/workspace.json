@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54e8b9396dc11304",
+        "id": "2060ffa786030b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "b9643459d4557095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cccd27e3cf11db2a",
+            "id": "ff7fbf5a5ad8189f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalibrain/excalibrain.md",
+                "file": "Excalibrain/dsdas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalibrain/excalibrain.md",
+                "file": "Excalibrain/dsdas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalibrain/excalibrain.md"
+                "file": "Excalibrain/dsdas.md"
               }
             }
           },
@@ -161,52 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "floating": {
-    "id": "9b74c786854e4bd6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a67808f73165fcd5",
-        "type": "window",
-        "children": [
-          {
-            "id": "dc13382cf2f4f773",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dfe4b81e7f578141",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalibrain/excalibrain.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 37,
-        "width": 1728,
-        "height": 1080,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dfe4b81e7f578141",
+  "active": "c42a387dd1ccdc3a",
   "lastOpenFiles": [
+    "Excalibrain/excalibrain.md",
+    "coding/Beck's Rule for Simple Design.md",
+    "venkat-talks/Suckless code.md",
+    "daily/2022-10-23.md",
     "Excalibrain/dsdas.md",
     "DDD.md",
+    "Pasted image 20221024085933.png",
     "Projects.md",
-    "daily/2022-10-23.md",
     "20221024 - dog-foog/Untitled.md",
-    "alf-project-wf/notes-archive/20221024 - to-complete.md",
-    "alf-project-wf/notes/20221024 - nice-pro.md",
-    "alf-project-wf/completed/1.md",
-    "alf-project-wf/completed/2.md",
-    "alf-project-wf/support/20221024 - nice-pro/dsdad.md"
+    "alf-project-wf/notes-archive/20221024 - to-complete.md"
   ]
 }
