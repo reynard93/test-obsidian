@@ -4,3 +4,5 @@ strategic design - what, why, big pic, event storming
 CQRS principle
 	command: does something does NOT return
 	query returns a result but does NOT change state
+	boundaries btwn 1) manipulate data 2) does not manipulate data
+	
