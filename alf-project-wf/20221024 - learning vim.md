@@ -1,7 +1,0 @@
-# learning vim
-
-[[<% tp.date.now("YYYYMMDD") %>]]
-
-[Support Folder](file://%2FUsers%2Freynardlee%2FDesktop%2Frey-vault%2Falf-project-wf%2Fproject-completed%2F20221024%20-%20learning%20vim%2F)
-
-<% tp.file.include("[[project]]") %>
