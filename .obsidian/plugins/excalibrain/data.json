@@ -47,8 +47,8 @@
   "backgroundColor": "#0c3e6aff",
   "excludeFilepaths": [],
   "showInferredNodes": true,
-  "showAttachments": true,
-  "showVirtualNodes": true,
+  "showAttachments": false,
+  "showVirtualNodes": false,
   "showFolderNodes": false,
   "showTagNodes": false,
   "showPageNodes": true,
@@ -150,8 +150,10 @@
     "DDD.md",
     "Excalibrain/dsdas.md",
     "Pasted image 20221024085933.png",
+    "daily/2022-10-23.md",
+    "coding/Beck's Rule for Simple Design.md",
     "venkat-talks/Suckless code.md",
-    "coding/Beck's Rule for Simple Design.md"
+    "Most common TDD mistakes and how to fix.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
