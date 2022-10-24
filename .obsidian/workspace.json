@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-23.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing cleaner code with DDD by Paul van der Slot.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           },
@@ -162,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b6a5135fa6ce2c38",
+  "active": "8f5de21f79681155",
   "lastOpenFiles": [
-    "daily/2022-10-24.md",
     "daily/2022-10-23.md",
+    "Writing cleaner code with DDD by Paul van der Slot.md",
+    "daily/2022-10-24.md",
     "venkat-talks/Suckless code.md",
     "coding/Beck's Rule for Simple Design.md",
     "obsidian/tips.md",
     "Untitled.md",
     "Writing Well.md",
     "leetcode/Ultimate leetcode tricks.md",
-    "Writing comments is like explaining a joke.md",
-    "Apply Zinsser's Principle on Writing.md"
+    "Writing comments is like explaining a joke.md"
   ]
 }
