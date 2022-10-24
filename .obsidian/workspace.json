@@ -11,12 +11,8 @@
             "id": "2a29359454a63926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "leetcode/Ultimate leetcode tricks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,23 +134,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2a29359454a63926",
+  "active": "c42a387dd1ccdc3a",
   "lastOpenFiles": [
+    "daily/2022-10-24.md",
+    "assets/Pasted image 20221024192708.png",
+    "assets/Pasted image 20221024172951.png",
+    "assets/Pasted image 20221024085933.png",
+    "assets/Pasted image 20221024092355.png",
+    "leetcode/Ultimate leetcode tricks.md",
     "Excalibrain/excalibrain.md",
     "Most common TDD mistakes and how to fix.md",
     "venkat-talks/Suckless code.md",
-    "coding/Beck's Rule for Simple Design.md",
-    "daily/2022-10-23.md",
-    "Excalibrain/dsdas.md",
-    "DDD.md",
-    "Pasted image 20221024085933.png",
-    "Projects.md",
-    "20221024 - dog-foog/Untitled.md"
+    "coding/Beck's Rule for Simple Design.md"
   ]
 }
