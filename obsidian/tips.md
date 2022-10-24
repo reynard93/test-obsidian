@@ -11,3 +11,5 @@
 	
 	not just link to but also embed part of the note
 	![[README]]
+
+https://github.com/joebuhlig/alfred-obsidian-projects

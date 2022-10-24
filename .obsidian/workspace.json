@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6a5135fa6ce2c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
+                "file": "obsidian/tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7b8047dc8578b4d4",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "obsidian/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "obsidian/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "obsidian/tips.md"
               }
             }
           },
@@ -163,15 +150,15 @@
   },
   "active": "8f5de21f79681155",
   "lastOpenFiles": [
-    "Untitled.md",
     "daily/2022-10-24.md",
     "daily/2022-10-23.md",
-    "Writing cleaner code with DDD by Paul van der Slot.md",
     "venkat-talks/Suckless code.md",
     "coding/Beck's Rule for Simple Design.md",
     "obsidian/tips.md",
+    "Untitled.md",
     "Writing Well.md",
     "leetcode/Ultimate leetcode tricks.md",
-    "Writing comments is like explaining a joke.md"
+    "Writing comments is like explaining a joke.md",
+    "Apply Zinsser's Principle on Writing.md"
   ]
 }
