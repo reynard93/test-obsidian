@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a37ba492d4a62021",
+        "id": "54e8b9396dc11304",
         "type": "tabs",
         "children": [
           {
-            "id": "937bdc2026e56100",
+            "id": "cb07e00528efe1aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +140,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "937bdc2026e56100",
+  "active": "cb07e00528efe1aa",
   "lastOpenFiles": [
+    "Projects.md",
     "alf-project-wf/notes-archive/20221024 - to-complete.md",
     "alf-project-wf/notes/20221024 - nice-pro.md",
     "alf-project-wf/completed/1.md",
@@ -158,7 +151,6 @@
     "alf-project-wf/Projects.md",
     "project.md",
     "daily/2022-10-24.md",
-    "alf-project-wf/support/20221024 - to-complete/2.md",
-    "alf-project-wf/support/20221024 - to-complete/1.md"
+    "alf-project-wf/support/20221024 - to-complete/2.md"
   ]
 }
