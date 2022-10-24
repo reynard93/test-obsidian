@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2060ffa786030b3e",
+        "id": "58f461d605d7cb77",
         "type": "tabs",
         "children": [
           {
-            "id": "2a29359454a63926",
+            "id": "c61f70c8ae249721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "coding/Beck's Rule for Simple Design.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "284519214f94339d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91a2e26ec51a0a13",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "coding/Beck's Rule for Simple Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentations/New presentation.md",
+                "file": "coding/Beck's Rule for Simple Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentations/New presentation.md"
+                "file": "coding/Beck's Rule for Simple Design.md"
               }
             }
           },
@@ -156,23 +142,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2a29359454a63926",
+  "active": "c61f70c8ae249721",
   "lastOpenFiles": [
-    "obsidian/tips.md",
-    "presentations/New presentation.md",
     "daily/2022-10-24.md",
+    "daily/2022-10-23.md",
+    "Excalidraw/Drawing 2022-10-24 20.58.25.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-24 20.58.16.excalidraw.md",
+    "presentations/New presentation.md",
+    "obsidian/tips.md",
     "assets/Pasted image 20221024192708.png",
     "assets/Pasted image 20221024172951.png",
     "assets/Pasted image 20221024085933.png",
-    "assets/Pasted image 20221024092355.png",
-    "leetcode/Ultimate leetcode tricks.md",
-    "Excalibrain/excalibrain.md",
-    "Most common TDD mistakes and how to fix.md"
+    "assets/Pasted image 20221024092355.png"
   ]
 }
