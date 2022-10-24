@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "Writing cleaner code with DDD by Paul van der Slot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "Writing cleaner code with DDD by Paul van der Slot.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "b6a5135fa6ce2c38",
   "lastOpenFiles": [
-    "venkat-talks/Suckless code.md",
+    "daily/2022-10-24.md",
     "daily/2022-10-23.md",
+    "venkat-talks/Suckless code.md",
     "coding/Beck's Rule for Simple Design.md",
     "obsidian/tips.md",
     "Untitled.md",
     "Writing Well.md",
     "leetcode/Ultimate leetcode tricks.md",
     "Writing comments is like explaining a joke.md",
-    "Apply Zinsser's Principle on Writing.md",
-    "dsd.md"
+    "Apply Zinsser's Principle on Writing.md"
   ]
 }
