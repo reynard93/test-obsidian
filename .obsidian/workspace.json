@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cccd27e3cf11db2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalibrain/dsdas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD.md",
+                "file": "Excalibrain/excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD.md",
+                "file": "Excalibrain/excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD.md"
+                "file": "Excalibrain/excalibrain.md"
               }
             }
           },
@@ -148,8 +161,45 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b9643459d4557095",
+  "floating": {
+    "id": "9b74c786854e4bd6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a67808f73165fcd5",
+        "type": "window",
+        "children": [
+          {
+            "id": "dc13382cf2f4f773",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfe4b81e7f578141",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalibrain/excalibrain.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 37,
+        "width": 1728,
+        "height": 1080,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dfe4b81e7f578141",
   "lastOpenFiles": [
+    "Excalibrain/dsdas.md",
+    "DDD.md",
     "Projects.md",
     "daily/2022-10-23.md",
     "20221024 - dog-foog/Untitled.md",
@@ -157,8 +207,6 @@
     "alf-project-wf/notes/20221024 - nice-pro.md",
     "alf-project-wf/completed/1.md",
     "alf-project-wf/completed/2.md",
-    "alf-project-wf/support/20221024 - nice-pro/dsdad.md",
-    "alf-project-wf/Projects.md",
-    "project.md"
+    "alf-project-wf/support/20221024 - nice-pro/dsdad.md"
   ]
 }
