@@ -47,3 +47,5 @@ reducing coupling is more important across bounded contexts
 	why?
 	autonomous, can evolve alone
 	decreased cognitive load -> only have to think about own bounded context
+	![[Pasted image 20221024092355.png]]
+	
