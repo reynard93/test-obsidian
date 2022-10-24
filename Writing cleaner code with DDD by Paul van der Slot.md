@@ -34,4 +34,6 @@ side effect free functions
 	they cannot be prevented: update db, web svc calls, send msg but they happen at edge of app, in doman logic, can use pure functions a lot
 	imperative shell will contain code with side effects
 	![[Pasted image 20221024085933.png]]
-	
+
+### Bounded Context
+different groups have different views on the same model
