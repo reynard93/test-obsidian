@@ -11,12 +11,8 @@
             "id": "8f5de21f79681155",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alf-project-wf/Projects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alf-project-wf/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alf-project-wf/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "alf-project-wf/Projects.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c42a387dd1ccdc3a",
+  "active": "8f5de21f79681155",
   "lastOpenFiles": [
+    "alf-project-wf/20221024 - rdf.md",
+    "alf-project-wf/Projects.md",
     "alf-project-wf/20221024 - testing one.md",
     "alf-project-wf/project-archive/20221024 - testing-2.md",
-    "alf-project-wf/Projects.md",
     "Untitled.md",
     "obsidian/tips.md",
     "daily/2022-10-24.md",
     "daily/2022-10-23.md",
     "venkat-talks/Suckless code.md",
-    "coding/Beck's Rule for Simple Design.md",
-    "Writing Well.md"
+    "coding/Beck's Rule for Simple Design.md"
   ]
 }
