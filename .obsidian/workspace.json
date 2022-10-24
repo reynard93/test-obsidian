@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "presentations/New presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "presentations/New presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "presentations/New presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "presentations/New presentation.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "2a29359454a63926",
   "lastOpenFiles": [
-    "assets/Pasted image 20221024192708.png",
+    "obsidian/tips.md",
+    "presentations/New presentation.md",
     "daily/2022-10-24.md",
+    "assets/Pasted image 20221024192708.png",
     "assets/Pasted image 20221024172951.png",
     "assets/Pasted image 20221024085933.png",
     "assets/Pasted image 20221024092355.png",
     "leetcode/Ultimate leetcode tricks.md",
     "Excalibrain/excalibrain.md",
-    "Most common TDD mistakes and how to fix.md",
-    "venkat-talks/Suckless code.md",
-    "coding/Beck's Rule for Simple Design.md"
+    "Most common TDD mistakes and how to fix.md"
   ]
 }
