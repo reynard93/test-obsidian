@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alf-project-wf/project-archive/20221024 - testing-2.md",
-                "mode": "preview",
+                "file": "alf-project-wf/Projects.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alf-project-wf/project-archive/20221024 - testing-2.md",
+                "file": "alf-project-wf/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alf-project-wf/project-archive/20221024 - testing-2.md",
+                "file": "alf-project-wf/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alf-project-wf/project-archive/20221024 - testing-2.md"
+                "file": "alf-project-wf/Projects.md"
               }
             }
           },
@@ -150,6 +150,8 @@
   },
   "active": "c42a387dd1ccdc3a",
   "lastOpenFiles": [
+    "alf-project-wf/20221024 - testing one.md",
+    "alf-project-wf/project-archive/20221024 - testing-2.md",
     "alf-project-wf/Projects.md",
     "Untitled.md",
     "obsidian/tips.md",
@@ -157,8 +159,6 @@
     "daily/2022-10-23.md",
     "venkat-talks/Suckless code.md",
     "coding/Beck's Rule for Simple Design.md",
-    "Writing Well.md",
-    "leetcode/Ultimate leetcode tricks.md",
-    "Writing comments is like explaining a joke.md"
+    "Writing Well.md"
   ]
 }
