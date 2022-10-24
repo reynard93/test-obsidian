@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           },
@@ -142,22 +142,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "c61f70c8ae249721",
   "lastOpenFiles": [
-    "daily/2022-10-24.md",
-    "daily/2022-10-23.md",
     "Excalidraw/Drawing 2022-10-24 20.58.25.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-24 20.58.16.excalidraw.md",
+    "daily/2022-10-24.md",
+    "Writing cleaner code with DDD by Paul van der Slot.md",
+    "Most common TDD mistakes and how to fix.md",
+    "venkat-talks/Suckless code.md",
+    "DDD.md",
+    "daily/2022-10-23.md",
+    "coding/Beck's Rule for Simple Design.md",
     "presentations/New presentation.md",
-    "obsidian/tips.md",
-    "assets/Pasted image 20221024192708.png",
-    "assets/Pasted image 20221024172951.png",
-    "assets/Pasted image 20221024085933.png",
-    "assets/Pasted image 20221024092355.png"
+    "obsidian/tips.md"
   ]
 }

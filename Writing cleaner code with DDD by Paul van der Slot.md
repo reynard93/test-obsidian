@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=3t0tZTOGk08
 
 ### Ubiquitous language
 A value object:: an immutable type that is distinguishable only by the state of its properties
+<!--SR:!2022-10-25,1,230-->
 center of gravity for complex biz logic, immutable easy to test
 vs utility method, need to know it exists, you dont know if email is validated alrdy later
 , vo: everywhere email is validated, type safe, explicit domain meaning

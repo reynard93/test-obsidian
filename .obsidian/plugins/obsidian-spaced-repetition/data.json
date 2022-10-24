@@ -21,10 +21,12 @@
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#review"
+      "#review",
+      "#"
     ],
     "noteFoldersToIgnore": [
-      "archive"
+      "archive",
+      "Excalidraw"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
