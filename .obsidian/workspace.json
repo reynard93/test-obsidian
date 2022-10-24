@@ -11,7 +11,25 @@
             "id": "2a29359454a63926",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "presentations/New presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "45bea494974f8115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a21425367e3d5e0b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "presentations/New presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "presentations/New presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "presentations/New presentation.md"
+              }
             }
           },
           {
@@ -134,15 +156,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c42a387dd1ccdc3a",
+  "active": "2a29359454a63926",
   "lastOpenFiles": [
-    "daily/2022-10-24.md",
     "assets/Pasted image 20221024192708.png",
+    "daily/2022-10-24.md",
     "assets/Pasted image 20221024172951.png",
     "assets/Pasted image 20221024085933.png",
     "assets/Pasted image 20221024092355.png",
