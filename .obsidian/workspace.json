@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "venkat-talks/Suckless code.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "venkat-talks/Suckless code.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "b6a5135fa6ce2c38",
   "lastOpenFiles": [
-    "daily/2022-10-23.md",
     "venkat-talks/Suckless code.md",
+    "daily/2022-10-23.md",
     "coding/Beck's Rule for Simple Design.md",
     "obsidian/tips.md",
     "Untitled.md",

@@ -1,6 +1,6 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "mommac backup: {{date}}",
+  "autoCommitMessage": "rey-mac backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
