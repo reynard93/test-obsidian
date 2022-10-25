@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "daily/2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "daily/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "daily/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "daily/2022-10-25.md"
               }
             }
           },
@@ -149,9 +149,9 @@
   },
   "active": "c61f70c8ae249721",
   "lastOpenFiles": [
+    "daily/2022-10-24.md",
     "coding/Beck's Rule for Simple Design.md",
     "daily/2022-10-23.md",
-    "daily/2022-10-24.md",
     "Excalidraw/Drawing 2022-10-24 20.58.25.excalidraw.md",
     "Writing cleaner code with DDD by Paul van der Slot.md",
     "Most common TDD mistakes and how to fix.md",
