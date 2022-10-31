@@ -159,6 +159,8 @@
   },
   "active": "5100343cc61b82e1",
   "lastOpenFiles": [
+    "daily/2022-10-25.md",
+    "daily/2022-10-31.md",
     "daily/2022-10-24.md",
     "coding/Beck's Rule for Simple Design.md",
     "daily/2022-10-23.md",
@@ -166,8 +168,6 @@
     "Writing cleaner code with DDD by Paul van der Slot.md",
     "Most common TDD mistakes and how to fix.md",
     "venkat-talks/Suckless code.md",
-    "DDD.md",
-    "presentations/New presentation.md",
-    "obsidian/tips.md"
+    "DDD.md"
   ]
 }

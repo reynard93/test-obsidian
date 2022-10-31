@@ -1,6 +1,6 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "rey-mac backup: {{date}}",
+  "autoCommitMessage": "mommac backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
@@ -10,7 +10,7 @@
   "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
-  "showStatusBar": true,
+  "showStatusBar": false,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
@@ -23,5 +23,5 @@
   "username": "",
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true
+  "showBranchStatusBar": false
 }
