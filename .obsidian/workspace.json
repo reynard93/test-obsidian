@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-10.md",
+                "file": "daily/2022-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-10.md",
+                "file": "daily/2022-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-10.md",
+                "file": "daily/2022-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-10.md"
+                "file": "daily/2022-11-13.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "c61f70c8ae249721",
   "lastOpenFiles": [
+    "daily/2022-11-10.md",
     "daily/2022-11-07.md",
     "daily/2022-11-09.md",
     "daily/2022-11-05.md",
@@ -167,7 +168,6 @@
     "daily/2022-10-25.md",
     "daily/2022-11-02.md",
     "daily/2022-10-24.md",
-    "coding/Beck's Rule for Simple Design.md",
-    "daily/2022-10-23.md"
+    "coding/Beck's Rule for Simple Design.md"
   ]
 }
