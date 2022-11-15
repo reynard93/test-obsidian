@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "daily/2022-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "daily/2022-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "daily/2022-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-14.md"
+                "file": "daily/2022-11-15.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "c61f70c8ae249721",
   "lastOpenFiles": [
+    "daily/2022-11-14.md",
     "daily/2022-11-09.md",
     "coding/Five deisgn patterns to build resilient applications.md",
-    "daily/2022-11-14.md",
     "daily/2022-11-13.md",
     "daily/2022-11-10.md",
     "daily/2022-11-07.md",
