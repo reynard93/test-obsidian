@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "work notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "341c2d2d0dad93c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refactoring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Refactoring.md"
               }
             }
           },
@@ -182,8 +194,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6cd975b1738448ec",
+  "active": "341c2d2d0dad93c4",
   "lastOpenFiles": [
+    "work notes.md",
     "daily/2022-11-09.md",
     "daily/2022-11-15.md",
     "daily/2022-11-10.md",
@@ -192,7 +205,6 @@
     "coding/Five deisgn patterns to build resilient applications.md",
     "daily/2022-11-07.md",
     "daily/2022-11-05.md",
-    "daily/2022-11-01.md",
-    "daily/2022-10-31.md"
+    "daily/2022-11-01.md"
   ]
 }
