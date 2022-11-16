@@ -14,3 +14,5 @@ src/api/pat/pat-v2.js
 ![[Pasted image 20221116110215.png]]
 
 this works for sat
+
+which table i look at to find a linked client uen -- go look at jauto
