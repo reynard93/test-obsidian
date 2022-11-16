@@ -10,3 +10,7 @@ const _validateAssessPATEligibilityV2Request = body => {
 }
 
 src/api/pat/pat-v2.js
+
+![[Pasted image 20221116110215.png]]
+
+this works for sat
