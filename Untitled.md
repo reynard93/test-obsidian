@@ -16,3 +16,9 @@ src/api/pat/pat-v2.js
 this works for sat
 
 which table i look at to find a linked client uen -- go look at jauto
+
+2 types of ssic - compass ssic and company ssic
+compass ssic is to show the sector and subsector, it is used for processing
+company ssic - rules processing 
+
+we have a table which is dtl.ssicindex_ssic
