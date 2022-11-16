@@ -22,3 +22,5 @@ compass ssic is to show the sector and subsector, it is used for processing
 company ssic - rules processing 
 
 we have a table which is dtl.ssicindex_ssic
+
+testos is all from docker contianer need rebuild the oracle db
