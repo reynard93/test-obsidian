@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactoring.md",
+                "file": "daily/2022-11-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactoring.md",
+                "file": "daily/2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactoring.md",
+                "file": "daily/2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactoring.md"
+                "file": "daily/2022-11-16.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "341c2d2d0dad93c4",
   "lastOpenFiles": [
+    "Refactoring.md",
     "work notes.md",
     "daily/2022-11-09.md",
     "daily/2022-11-15.md",
@@ -204,7 +205,6 @@
     "daily/2022-11-13.md",
     "coding/Five deisgn patterns to build resilient applications.md",
     "daily/2022-11-07.md",
-    "daily/2022-11-05.md",
-    "daily/2022-11-01.md"
+    "daily/2022-11-05.md"
   ]
 }
