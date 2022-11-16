@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cd975b1738448ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-15.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-15.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-15.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -169,13 +182,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c61f70c8ae249721",
+  "active": "6cd975b1738448ec",
   "lastOpenFiles": [
-    "daily/2022-11-10.md",
+    "daily/2022-11-09.md",
     "daily/2022-11-15.md",
+    "daily/2022-11-10.md",
     "daily/2022-11-14.md",
     "daily/2022-11-13.md",
-    "daily/2022-11-09.md",
     "coding/Five deisgn patterns to build resilient applications.md",
     "daily/2022-11-07.md",
     "daily/2022-11-05.md",
