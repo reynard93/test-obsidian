@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-15.md",
+                "file": "daily/2022-11-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "q",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,17 +194,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "341c2d2d0dad93c4",
+  "active": "c61f70c8ae249721",
   "lastOpenFiles": [
-    "daily/2022-11-16.md",
+    "Excalidraw/Drawing 2022-11-17 17.44.43.excalidraw.md",
     "daily/2022-11-15.md",
-    "daily/2022-11-09.md",
     "work notes.md",
+    "daily/2022-11-09.md",
+    "daily/2022-11-17.md",
+    "daily/2022-11-16.md",
     "Refactoring.md",
     "daily/2022-11-10.md",
     "daily/2022-11-14.md",
-    "daily/2022-11-13.md",
-    "coding/Five deisgn patterns to build resilient applications.md",
-    "daily/2022-11-07.md"
+    "daily/2022-11-13.md"
   ]
 }
