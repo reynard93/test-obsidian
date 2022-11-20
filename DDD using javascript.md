@@ -25,6 +25,8 @@ this service is just a different file put it at a separate place so you can test
 gf on the line gets the definitons etc (f for full?)
 gd goes to definition
 gi goes to implementation (go into file immediately)
-go to error suggested by lsp by ]D
+go to error suggested by lsp by ]D, [D to go backwards
 
 leader ca to see code actions
+
+leader d to see the error on the line
