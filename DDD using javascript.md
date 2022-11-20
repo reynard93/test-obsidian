@@ -30,3 +30,5 @@ go to error suggested by lsp by ]D, [D to go backwards
 leader ca to see code actions
 
 leader d to see the error on the line
+
+shift + k to get more documentation on where your cursor is
