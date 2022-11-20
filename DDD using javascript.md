@@ -21,3 +21,10 @@ a service::an object that orchestrates the steps required to fulfill the cmds im
 	- Infras
 these classifications lose importance for a fe app
 this service is just a different file put it at a separate place so you can test it separately
+
+gf on the line gets the definitons etc (f for full?)
+gd goes to definition
+gi goes to implementation (go into file immediately)
+go to error suggested by lsp by ]D
+
+leader ca to see code actions
