@@ -11,3 +11,5 @@ example: business rules on what is required for promotion
 	1: avg votes should be > 7
 	2: require min 4 votes
 
+https://youtu.be/8AUxhphOl5I
+27:09 starting ddd refactoring
