@@ -13,3 +13,10 @@ example: business rules on what is required for promotion
 
 https://youtu.be/8AUxhphOl5I
 27:09 starting ddd refactoring
+
+a service::an object that orchestrates the steps required to fulfill the cmds imposed by the client
+	3 kinds of services
+	- Domain
+	- Application
+	- Infras
+these classifications lose importance for a fe app
