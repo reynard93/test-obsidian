@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "login",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +207,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "056fdefb3019295b",
+  "active": "4460ca1783718367",
   "lastOpenFiles": [
     "daily/2022-11-20.md",
     "daily/2022-11-17.md",
