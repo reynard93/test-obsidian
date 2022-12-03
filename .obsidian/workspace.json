@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-30.md"
+                "file": "daily/2022-12-03.md"
               }
             }
           },
@@ -149,8 +149,8 @@
   },
   "active": "c61f70c8ae249721",
   "lastOpenFiles": [
-    "daily/2022-11-23.md",
     "daily/2022-11-30.md",
+    "daily/2022-11-23.md",
     "daily/2022-11-20.md",
     "DDD using javascript.md",
     "daily/2022-11-17.md",
