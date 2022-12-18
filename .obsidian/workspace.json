@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58f461d605d7cb77",
+        "id": "3edff8cf3bc478d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c61f70c8ae249721",
+            "id": "b7ed85e09befd0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "daily/2022-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "daily/2022-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-12-03.md",
+                "file": "daily/2022-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-12-03.md"
+                "file": "daily/2022-12-18.md"
               }
             }
           },
@@ -147,8 +147,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c61f70c8ae249721",
+  "active": "b7ed85e09befd0b2",
   "lastOpenFiles": [
+    "daily/2022-12-16.md",
+    "daily/2022-12-03.md",
     "daily/2022-11-30.md",
     "daily/2022-11-23.md",
     "daily/2022-11-20.md",
@@ -156,8 +158,6 @@
     "daily/2022-11-17.md",
     "Excalidraw/Drawing 2022-11-17 17.44.43.excalidraw.md",
     "daily/2022-11-15.md",
-    "work notes.md",
-    "daily/2022-11-09.md",
-    "daily/2022-11-16.md"
+    "work notes.md"
   ]
 }
