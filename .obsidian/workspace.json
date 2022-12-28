@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "17d9001ca00bf699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-12-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68cfd00e10417e66",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-12-27.md",
+                "file": "daily/2022-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-12-27.md",
+                "file": "daily/2022-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-12-27.md"
+                "file": "daily/2022-12-28.md"
               }
             }
           },
@@ -173,8 +186,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7ed85e09befd0b2",
+  "active": "17d9001ca00bf699",
   "lastOpenFiles": [
+    "daily/2022-12-27.md",
     "daily/2022-12-28.md",
     "daily/2022-12-18.md",
     "daily/2022-12-16.md",
@@ -183,7 +197,6 @@
     "daily/2022-11-23.md",
     "daily/2022-11-20.md",
     "DDD using javascript.md",
-    "daily/2022-11-17.md",
-    "Excalidraw/Drawing 2022-11-17 17.44.43.excalidraw.md"
+    "daily/2022-11-17.md"
   ]
 }
