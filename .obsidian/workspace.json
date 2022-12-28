@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-12-28.md",
+                "file": "daily/2022-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-12-28.md",
+                "file": "daily/2022-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-12-28.md"
+                "file": "daily/2022-12-27.md"
               }
             }
           },
@@ -174,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68cfd00e10417e66",
+  "active": "b7ed85e09befd0b2",
   "lastOpenFiles": [
+    "daily/2022-12-28.md",
     "daily/2022-12-18.md",
     "daily/2022-12-16.md",
     "daily/2022-12-03.md",
@@ -184,7 +184,6 @@
     "daily/2022-11-20.md",
     "DDD using javascript.md",
     "daily/2022-11-17.md",
-    "Excalidraw/Drawing 2022-11-17 17.44.43.excalidraw.md",
-    "daily/2022-11-15.md"
+    "Excalidraw/Drawing 2022-11-17 17.44.43.excalidraw.md"
   ]
 }
