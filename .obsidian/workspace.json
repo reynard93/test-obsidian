@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-02-17.md",
+                "file": "daily/2023-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-02-17.md",
+                "file": "daily/2023-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-02-17.md",
+                "file": "daily/2023-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-02-17.md"
+                "file": "daily/2023-02-25.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "daf3a0f9f2ae6b63",
   "lastOpenFiles": [
+    "daily/2023-02-17.md",
     "daily/2023-02-05.md",
     "daily/2023-01-17.md",
     "conflict-files-obsidian-git.md",
@@ -169,7 +170,6 @@
     "daily/2022-12-26.md",
     "daily/2023-01-11.md",
     "daily/Untitled.md",
-    "daily/2022-12-17.md",
-    "daily/2022-10-24.md"
+    "daily/2022-12-17.md"
   ]
 }
