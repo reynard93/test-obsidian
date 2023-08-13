@@ -5,5 +5,4 @@ The reality is _**getting to the first principles of this domain**_ isn’t re
 
 concerns are:: categories of responsibilities
 
-example: Edit a User profil
-
+example: Edit a User profile feature
