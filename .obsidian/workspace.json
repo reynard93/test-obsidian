@@ -111,26 +111,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EssentialistSoftware/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71efb06e90f8dc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EssentialistSoftware/MVC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EssentialistSoftware/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EssentialistSoftware/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "EssentialistSoftware/MVC.md"
               }
             }
           },
@@ -287,10 +275,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "71efb06e90f8dc91",
+  "active": "668ad0229cbc780b",
   "lastOpenFiles": [
-    "EssentialistSoftware/Untitled.md",
     "conflict-files-obsidian-git.md",
+    "EssentialistSoftware/MVC.md",
     "leetcode/Ultimate leetcode tricks.md",
     "Chrome Clippings.md",
     "daily/2023-08-13.md",
