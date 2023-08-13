@@ -92,3 +92,6 @@ There’s a lot of reasons why this is troublesome — the main one being that i
 
 **Separate Concerns**
 MVC gives us __three main concern-buckets__  
+1. model
+2. view
+3. 
