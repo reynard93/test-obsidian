@@ -94,4 +94,13 @@ There’s a lot of reasons why this is troublesome — the main one being that i
 MVC gives us __three main concern-buckets__  
 1. model
 2. view
-3. 
+3. controller
+![[Pasted image 20230813162403.png]]
+- The **model** handles data and business logic
+- The **view** handles the presentation
+- The **controller** acts as the intermediary between the **model** and the **view**
+
+refactoring: 
+1. model: useUserModel hook
+2. controller: UserController -
+3. view: UserView markup that takes the result of useUserModel (user) and UserController (handlers)
