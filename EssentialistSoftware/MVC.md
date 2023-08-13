@@ -102,5 +102,5 @@ MVC gives us __three main concern-buckets__
 
 refactoring: 
 1. model: useUserModel hook
-2. controller: UserController -
-3. view: UserView markup that takes the result of useUserModel (user) and UserController (handlers)
+2. controller: UserController, contains handlers which
+3. view: UserView markup that takes the result of useUserModel (user) and UserController (handlers) via **props**
