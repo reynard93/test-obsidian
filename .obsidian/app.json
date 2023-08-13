@@ -1,5 +1,3 @@
 {
-  "promptDelete": false,
-  "attachmentFolderPath": "assets",
-  "showInlineTitle": false
+  "vimMode": true
 }

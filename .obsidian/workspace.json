@@ -1,39 +1,102 @@
 {
   "main": {
-    "id": "9069e3372fcebfe5",
+    "id": "19edbbbf25f46eed",
     "type": "split",
     "children": [
       {
-        "id": "3edff8cf3bc478d9",
+        "id": "080ad2d0ec9ef4c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ed85e09befd0b2",
+            "id": "ff7ddc207523555f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "55d5615421e5e165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-03.md",
+                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd245173633a7080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/How to Become a Better Frontend Architect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b05844c3ba175f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/Systems Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10333aa852ccae72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/3 Step Essentialist Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de9420d868134b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e2bea6a03cc8ddf3",
+    "id": "1a3360484661d01c",
     "type": "split",
     "children": [
       {
-        "id": "3f0b08da817438ad",
+        "id": "6bcfbaaad1fd03ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c42a387dd1ccdc3a",
+            "id": "2a4e1bc38e82016d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +106,7 @@
             }
           },
           {
-            "id": "4460ca1783718367",
+            "id": "a90bba9342ecb2dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,36 +121,54 @@
             }
           },
           {
-            "id": "3f4a9299f2a5bcda",
+            "id": "0ec01951ac5af4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EssentialistSoftware/How to Become a Better Frontend Architect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3249dd44034a52c4",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "526804f5534dbbd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "7b8047dc8578b4d4",
+    "id": "d4cfa397030ca623",
     "type": "split",
     "children": [
       {
-        "id": "6ddb4356595688c0",
+        "id": "f42ac791ede9b7da",
         "type": "tabs",
         "children": [
           {
-            "id": "d148ecf0d92fa813",
+            "id": "459bf72f1943109a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-01-03.md",
+                "file": "EssentialistSoftware/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +180,19 @@
             }
           },
           {
-            "id": "d9af601a8bf991ed",
+            "id": "daa67c6efa6e8afe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-01-03.md",
+                "file": "EssentialistSoftware/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d976bc2abef21142",
+            "id": "7e16a01cf1e912c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,17 +203,17 @@
             }
           },
           {
-            "id": "baa1ba4e349c585b",
+            "id": "0b7a82a6e422fe01",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-01-03.md"
+                "file": "EssentialistSoftware/Untitled.md"
               }
             }
           },
           {
-            "id": "5517036b0a4a1fe6",
+            "id": "1e493e04b739012d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -144,34 +225,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b7ed85e09befd0b2",
+  "active": "2a4e1bc38e82016d",
   "lastOpenFiles": [
-    "daily/2022-12-27.md",
-    "daily/2022-12-28.md",
-    "daily/2022-12-18.md",
-    "daily/2022-12-16.md",
-    "daily/2022-12-03.md",
-    "daily/2022-11-30.md",
-    "daily/2022-11-23.md",
-    "daily/2022-11-20.md",
-    "DDD using javascript.md",
-    "daily/2022-11-17.md"
+    "EssentialistSoftware/3 Step Essentialist Process.md",
+    "EssentialistSoftware/Untitled.md",
+    "EssentialistSoftware/Systems Thinking.md",
+    "Pasted image 20230813152736.png",
+    "Pasted image 20230813152714.png",
+    "what is success?.md",
+    "EssentialistSoftware/How to Become a Better Frontend Architect.md",
+    "das.md",
+    "Untitled 1.md",
+    "EssentialistSoftware/Key takeaways from 1st QnA.md",
+    "EssentialistSoftware/WhiteBoard.canvas",
+    "EssentialistSoftware/The Stereotypical (First Principles) Architecture.md",
+    "presentations/New presentation.md",
+    "Pasted image 20230813144737.png",
+    "Pasted image 20230813144621.png",
+    "Pasted image 20230813144010.png",
+    "Pasted image 20230813143948.png",
+    "Pasted image 20230813143918.png",
+    "Pasted image 20230813143838.png",
+    "EssentialistSoftware",
+    "Excalibrain/excalibrain.md",
+    "Emacs Daemon.md",
+    "Emacs.md",
+    "wins-commom-form-v3.md",
+    "WIP new form components.md",
+    "Emacs with json.md",
+    "nix.md",
+    "Rustling.md",
+    "2023-01-13.md",
+    "Rust in 30 mins.md",
+    "2023-03-14.md",
+    "2023-03-12.md",
+    "Pasted image 20230312180820.png",
+    "Untitled.canvas",
+    "2023-03-06.md",
+    "Mocking app to staging intranet.md",
+    "2023-03-10.md",
+    "Neovim.md",
+    "Pasted image 20230303111654.png"
   ]
 }

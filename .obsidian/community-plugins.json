@@ -1,11 +1,5 @@
 [
-  "obsidian-excalidraw-plugin",
-  "dataview",
+  "flashcards-llm",
   "obsidian-git",
-  "url-into-selection",
-  "obsidian-spaced-repetition",
-  "templater-obsidian",
-  "excalibrain",
-  "advanced-toolbar",
-  "obsidian-advanced-slides"
+  "obsidian-spaced-repetition"
 ]
