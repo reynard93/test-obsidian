@@ -91,4 +91,4 @@ The stuff that has to do with **state management** knows about the _**ui logi
 There’s a lot of reasons why this is troublesome — the main one being that it kills our ability to test effectively — but at the code-first level, unless you’re aware of concerns, you’re not going to be able to separate them.
 
 **Separate Concerns**
-MVC gives us __**three main concern-buckets**__ 
+MVC gives us __three main concern-buckets__  
