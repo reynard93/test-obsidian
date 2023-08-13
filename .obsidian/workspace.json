@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EssentialistSoftware/MVC.md",
+                "file": "EssentialistSoftware/MVC backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/MVC.md",
+                "file": "EssentialistSoftware/MVC backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/MVC.md",
+                "file": "EssentialistSoftware/MVC backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialistSoftware/MVC.md"
+                "file": "EssentialistSoftware/MVC backend.md"
               }
             }
           },
@@ -277,10 +277,12 @@
   },
   "active": "668ad0229cbc780b",
   "lastOpenFiles": [
+    "EssentialistSoftware/MVC frontend.md",
+    "EssentialistSoftware/MVC backend.md",
+    "Pasted image 20230813163145.png",
     "Pasted image 20230813162403.png",
     "Pasted image 20230813162024.png",
     "conflict-files-obsidian-git.md",
-    "EssentialistSoftware/MVC.md",
     "leetcode/Ultimate leetcode tricks.md",
     "Chrome Clippings.md",
     "daily/2023-08-13.md",
@@ -311,8 +313,6 @@
     "Pasted image 20230813144737.png",
     "Pasted image 20230813144621.png",
     "Pasted image 20230813144010.png",
-    "Pasted image 20230813143948.png",
-    "Pasted image 20230813143918.png",
     "EssentialistSoftware",
     "Excalibrain/excalibrain.md",
     "Untitled.canvas"

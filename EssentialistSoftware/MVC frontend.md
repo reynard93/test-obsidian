@@ -1,6 +1,5 @@
 arch patterns are blueprints for how to organise responsibilities
-	- they separate responsibilities into concerns
-
+	- they separate responsibilities into **concerns**
 The reality is _**getting to the first principles of this domain**_ isn’t really hard, it’s just that you need to become **extremely aware of all the various _doings_ and _knowings_ your** code is actually doing.
 
 concerns are:: categories of responsibilities
@@ -74,8 +73,6 @@ const UserProfile = () => {
     </div>
   );
 };
-
-export default UserProfile;
 ```
 
 Among the many responsibilities this code implements are the following:
@@ -101,6 +98,13 @@ MVC gives us __three main concern-buckets__
 - The **controller** acts as the intermediary between the **model** and the **view**
 
 refactoring: 
-1. model: useUserModel hook
-2. controller: UserController, contains handlers which
+1. model: useUserModel hook, returns *state*
+2. controller: UserController, contains handlers which calls api
 3. view: UserView markup that takes the result of useUserModel (user) and UserController (handlers) via **props**
+still have issues but good start
+
+MVC is generic: applicable to backend, frontend, both
+
+problem: doesn’t tell you how to structure what goes **within** those three main categories of responsibilities (concerns)
+too broad strokes, there are more categories of responsibilities
+![[Pasted image 20230813163145.png]]
