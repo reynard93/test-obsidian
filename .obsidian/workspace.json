@@ -116,9 +116,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e770f5ea8db1d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reason why the message disappear,.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md",
+                "file": "reason why the message disappear,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md",
+                "file": "reason why the message disappear,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md"
+                "file": "reason why the message disappear,.md"
               }
             }
           },
@@ -275,10 +287,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "668ad0229cbc780b",
+  "active": "1e770f5ea8db1d03",
   "lastOpenFiles": [
-    "EssentialistSoftware/MVC backend.md",
+    "Pasted image 20230831163351.png",
     "EssentialistSoftware/pipeline isolated ideas.md",
+    "reason why the message disappear,.md",
+    "EssentialistSoftware/MVC backend.md",
     "Pasted image 20230813164316.png",
     "Pasted image 20230813164302.png",
     "EssentialistSoftware/MVC frontend.md",
@@ -311,8 +325,6 @@
     "Untitled 1.md",
     "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "EssentialistSoftware/WhiteBoard.canvas",
-    "EssentialistSoftware/The Stereotypical (First Principles) Architecture.md",
-    "presentations/New presentation.md",
     "Pasted image 20230813144737.png",
     "EssentialistSoftware",
     "Untitled.canvas"
