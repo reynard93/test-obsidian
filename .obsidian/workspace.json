@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EssentialistSoftware/Code-First Topics to know.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/Code-First Topics to know.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/Code-First Topics to know.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialistSoftware/Code-First Topics to know.md"
+                "file": "EssentialistSoftware/pipeline isolated ideas.md"
               }
             }
           },
@@ -278,7 +278,7 @@
   "active": "668ad0229cbc780b",
   "lastOpenFiles": [
     "EssentialistSoftware/MVC backend.md",
-    "EssentialistSoftware/Code-First Topics to know.md",
+    "EssentialistSoftware/pipeline isolated ideas.md",
     "Pasted image 20230813164316.png",
     "Pasted image 20230813164302.png",
     "EssentialistSoftware/MVC frontend.md",
