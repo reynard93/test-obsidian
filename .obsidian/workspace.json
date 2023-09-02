@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reason why the message disappear,.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reason why the message disappear,.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reason why the message disappear,.md",
+                "file": "EssentialistSoftware/pipeline isolated ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reason why the message disappear,.md"
+                "file": "EssentialistSoftware/pipeline isolated ideas.md"
               }
             }
           },
@@ -289,13 +289,31 @@
   },
   "active": "1e770f5ea8db1d03",
   "lastOpenFiles": [
-    "Pasted image 20230831163351.png",
-    "EssentialistSoftware/pipeline isolated ideas.md",
-    "reason why the message disappear,.md",
     "EssentialistSoftware/MVC backend.md",
+    "EssentialistSoftware/pipeline isolated ideas.md",
+    "venkat-talks/Suckless code.md",
+    "obsidian/tips.md",
+    "EssentialistSoftware/Systems Thinking.md",
+    "EssentialistSoftware/WhiteBoard.canvas",
+    "EssentialistSoftware/The Stereotypical (First Principles) Architecture.md",
+    "EssentialistSoftware/MVC frontend.md",
+    "daily/2022-11-07.md",
+    "daily/2022-11-01.md",
+    "assets/Pasted image 20221024085933.png",
+    "daily/2022-10-23.md",
+    "work notes.md",
+    "WIP new form components.md",
+    "2023-03-12.md",
+    "what is success?.md",
+    "2023-01-06.md",
+    "2023-03-14.md",
+    "Emacs with json.md",
+    "Emacs Daemon.md",
+    "Emacs.md",
+    "reason why the message disappear,.md",
+    "Pasted image 20230831163351.png",
     "Pasted image 20230813164316.png",
     "Pasted image 20230813164302.png",
-    "EssentialistSoftware/MVC frontend.md",
     "Pasted image 20230813163145.png",
     "Pasted image 20230813162403.png",
     "Pasted image 20230813162024.png",
@@ -306,26 +324,8 @@
     "essentialist.dev  Master the Essentials of Software Design.md",
     "EssentialistSoftware/Code-first developer lesson 1.md",
     "Pasted image 20230813153840.png",
-    "daily/Untitled.md",
-    "daily/2023-02-25.md",
-    "daily/2023-02-17.md",
-    "daily/2023-02-05.md",
-    "daily/2023-01-17.md",
-    "daily/2023-01-11.md",
-    "daily/2022-12-26.md",
-    "daily/2022-12-17.md",
     "assets/Pasted image 20230117143724.png",
-    "EssentialistSoftware/3 Step Essentialist Process.md",
-    "EssentialistSoftware/Systems Thinking.md",
     "Pasted image 20230813152736.png",
-    "Pasted image 20230813152714.png",
-    "what is success?.md",
-    "EssentialistSoftware/How to Become a Better Frontend Architect.md",
-    "das.md",
-    "Untitled 1.md",
-    "EssentialistSoftware/Key takeaways from 1st QnA.md",
-    "EssentialistSoftware/WhiteBoard.canvas",
-    "Pasted image 20230813144737.png",
     "EssentialistSoftware",
     "Untitled.canvas"
   ]

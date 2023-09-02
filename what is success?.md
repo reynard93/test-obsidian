@@ -1,1 +1,0 @@
-Success can take many forms (and apply to many types of problems), but it is always comprised of the same four essential properties: _**Philosophy + Attitude + Action & a Clear Goal.**_
