@@ -128,9 +128,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6898e4b15b1b28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -287,7 +297,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1e770f5ea8db1d03",
+  "active": "3c6898e4b15b1b28",
   "lastOpenFiles": [
     "EssentialistSoftware/MVC backend.md",
     "EssentialistSoftware/pipeline isolated ideas.md",
