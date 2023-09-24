@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chrome Clippings.md",
+                "file": "Emacs.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,9 +138,19 @@
                 "currentVersion": "1.4.5"
               }
             }
+          },
+          {
+            "id": "3c9a6a172243e36b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md",
+                "file": "Emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md",
+                "file": "Emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialistSoftware/pipeline isolated ideas.md"
+                "file": "Emacs.md"
               }
             }
           },
@@ -276,6 +286,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            }
+          },
+          {
+            "id": "8330d1e0f68b4b17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -297,8 +317,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3c6898e4b15b1b28",
+  "active": "6fb52b21547ca707",
   "lastOpenFiles": [
+    "Chrome Clippings.md",
     "EssentialistSoftware/MVC backend.md",
     "EssentialistSoftware/pipeline isolated ideas.md",
     "venkat-talks/Suckless code.md",
@@ -329,7 +350,6 @@
     "Pasted image 20230813162024.png",
     "conflict-files-obsidian-git.md",
     "leetcode/Ultimate leetcode tricks.md",
-    "Chrome Clippings.md",
     "daily/2023-08-13.md",
     "essentialist.dev  Master the Essentials of Software Design.md",
     "EssentialistSoftware/Code-first developer lesson 1.md",

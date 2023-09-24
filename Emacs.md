@@ -71,3 +71,6 @@ interactive select from recent files
 
 toggle maximization of current frame
 **
+
+spending time configuring makes people feel productive and can provide a sense of achievement
+learning to accept 'good enough'. only revisit your config once every couple of months
