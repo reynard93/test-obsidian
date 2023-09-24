@@ -45,7 +45,7 @@ https://www.reddit.com/r/orgmode/comments/1316klb/chatgpt_inline_insertion_in_la
 
 Don't overthink it. Develop a habit where you ask yourself a single question every time you make a note - whether it's a scribble on the margins, an org-roam node, a reminder, or any other form of note-taking. Ask yourself, "In what context should I find this in the future?"
 
-
+oooop
 **
 `C-x k`
 
