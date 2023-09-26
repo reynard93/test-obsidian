@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chip away",
+                "query": "em",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,7 +340,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7bbc3be2e141e078",
+  "active": "a90bba9342ecb2dd",
   "lastOpenFiles": [
     "Vim.md",
     "Chrome Clippings.md",
