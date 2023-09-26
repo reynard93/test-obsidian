@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "em",
+                "query": "emacs client",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
