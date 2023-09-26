@@ -67,3 +67,4 @@
 - **Example**: After searching for a word with `/word`, you can quickly replace it with `:%s//replacement/g`.
 
 These examples showcase the versatility of Vim registers and how they can be utilized in various editing tasks. By understanding and mastering these registers, users can enhance their Vim workflow and become more efficient in their text editing endeavors.
+

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim registers.md",
+                "file": "Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim registers.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim registers.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim registers.md"
+                "file": "Vim.md"
               }
             }
           },
@@ -341,7 +341,7 @@
   },
   "active": "7bbc3be2e141e078",
   "lastOpenFiles": [
-    "Vim registers.md",
+    "Vim.md",
     "Chrome Clippings.md",
     "EssentialistSoftware/MVC backend.md",
     "EssentialistSoftware/pipeline isolated ideas.md",
