@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md"
+                "file": "Vim.md"
               }
             }
           },
@@ -340,8 +340,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a90bba9342ecb2dd",
+  "active": "7bbc3be2e141e078",
   "lastOpenFiles": [
+    "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "Vim.md",
     "Chrome Clippings.md",
     "EssentialistSoftware/MVC backend.md",
@@ -375,7 +376,6 @@
     "conflict-files-obsidian-git.md",
     "leetcode/Ultimate leetcode tricks.md",
     "daily/2023-08-13.md",
-    "essentialist.dev  Master the Essentials of Software Design.md",
     "Pasted image 20230813153840.png",
     "assets/Pasted image 20230117143724.png",
     "Pasted image 20230813152736.png",
