@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff7ddc207523555f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "55d5615421e5e165",
             "type": "leaf",
             "state": {
@@ -83,28 +69,6 @@
           },
           {
             "id": "6fb52b21547ca707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emacs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587cf7f8863c9608",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "7c0fb528d5c85691",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -201,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mixins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +202,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,13 +304,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7c0fb528d5c85691",
+  "active": "6fb52b21547ca707",
   "lastOpenFiles": [
-    "Pasted image 20231109200520.png",
-    "Pasted image 20231109195108.png",
+    "InputText_vue (6).png",
+    "InputText_vue (5).png",
+    "InputText_vue (4).png",
+    "InputText_vue (3).png",
+    "Emacs.md",
+    "Pasted image 20230831163351.png",
     "Pasted image 20231109195007.png",
-    "Formcomponents",
+    "Pasted image 20231109195108.png",
+    "Pasted image 20231109200520.png",
+    "Pasted image 20230202114718.png",
+    "Pasted image 20230112115443.png",
     "Old form compoennts.md",
+    "Formcomponents",
     "Vim.md",
     "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "Chrome Clippings.md",
@@ -369,16 +342,8 @@
     "2023-03-14.md",
     "Emacs with json.md",
     "Emacs Daemon.md",
-    "Emacs.md",
     "reason why the message disappear,.md",
-    "Pasted image 20230831163351.png",
-    "Pasted image 20230813164316.png",
-    "Pasted image 20230813164302.png",
-    "Pasted image 20230813163145.png",
-    "Pasted image 20230813162403.png",
-    "Pasted image 20230813162024.png",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20230813153840.png",
     "EssentialistSoftware",
     "Untitled.canvas"
   ]
