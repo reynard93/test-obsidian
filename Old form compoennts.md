@@ -12,5 +12,5 @@ mixins - common, dispatch, validation
 - this reduces the reusability of the components in scenarios where a different state management solution is used or when Vuex is not needed
 Notice on FormGroup.vue, FormFacilitator.vue, common.js
 - this also presents the problem of ensuring the ui and vuex is synchronised (when repeated components)
-
+![[Pasted image 20231109200520.png]]
 Vuex does not have typescript integration available and has been replaced by Pinia as the official state management library Vue 3 onwards
