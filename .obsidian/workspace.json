@@ -94,6 +94,28 @@
             }
           },
           {
+            "id": "587cf7f8863c9608",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "7c0fb528d5c85691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old form compoennts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2023e903dad16b97",
             "type": "leaf",
             "state": {
@@ -150,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -179,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emacs client",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +238,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emacs.md",
+                "file": "Old form compoennts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emacs.md",
+                "file": "Old form compoennts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emacs.md"
+                "file": "Old form compoennts.md"
               }
             }
           },
@@ -318,8 +339,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6fb52b21547ca707",
+  "active": "7c0fb528d5c85691",
   "lastOpenFiles": [
+    "Formcomponents",
+    "Old form compoennts.md",
     "Vim.md",
     "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "Chrome Clippings.md",
@@ -352,8 +375,6 @@
     "Pasted image 20230813162403.png",
     "Pasted image 20230813162024.png",
     "conflict-files-obsidian-git.md",
-    "leetcode/Ultimate leetcode tricks.md",
-    "daily/2023-08-13.md",
     "Pasted image 20230813153840.png",
     "assets/Pasted image 20230117143724.png",
     "Pasted image 20230813152736.png",
