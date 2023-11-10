@@ -5,7 +5,7 @@ mixins - common, dispatch, validation
 - Each component would essentially have the same set of mixins and shared functionality, resulting in redundant code. This duplication increases the size of the codebase and makes it harder to maintain and update.
 - Introducing redundant code makes the application slower and consumes more memory, the whole of common-form-component is consumed by the forms. tree-shaking does not apply to globally registered components, we are duplicating registering the design system base components and these wrapper components
 - 
-- to configure an input component differently would have to do so on common-form-components, abstract over the surface of the component and duplicating the props we have to pass in. Case in point -
+-
 - 
 
 # Code tightly coupled to Vuex State management
