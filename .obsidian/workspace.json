@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "fb733cc1ab902c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-01-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2023e903dad16b97",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old form compoennts.md",
+                "file": "daily/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old form compoennts.md",
+                "file": "daily/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old form compoennts.md"
+                "file": "daily/2024-01-31.md"
               }
             }
           },
@@ -304,8 +316,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6fb52b21547ca707",
+  "active": "fb733cc1ab902c74",
   "lastOpenFiles": [
+    "daily/2024-01-31.md",
     "InputText_vue (6).png",
     "InputText_vue (5).png",
     "InputText_vue (4).png",
@@ -332,7 +345,6 @@
     "EssentialistSoftware/MVC frontend.md",
     "daily/2022-11-07.md",
     "daily/2022-11-01.md",
-    "assets/Pasted image 20221024085933.png",
     "daily/2022-10-23.md",
     "work notes.md",
     "WIP new form components.md",
