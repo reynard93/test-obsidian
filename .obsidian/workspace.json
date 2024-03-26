@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Five deisgn patterns to build resilient applications.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Five deisgn patterns to build resilient applications.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Five deisgn patterns to build resilient applications.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Five deisgn patterns to build resilient applications.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           },
@@ -343,8 +343,8 @@
   },
   "active": "845ad44fdf4f2834",
   "lastOpenFiles": [
-    "coding/Beck's Rule for Simple Design.md",
     "coding/Five deisgn patterns to build resilient applications.md",
+    "coding/Beck's Rule for Simple Design.md",
     "Untitled.canvas",
     "daily/2024-03-18.md",
     "daily/2024-01-31.md",
