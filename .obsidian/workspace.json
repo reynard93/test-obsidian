@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "coding/Five deisgn patterns to build resilient applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "coding/Five deisgn patterns to build resilient applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md",
+                "file": "coding/Five deisgn patterns to build resilient applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Beck's Rule for Simple Design.md"
+                "file": "coding/Five deisgn patterns to build resilient applications.md"
               }
             }
           },
@@ -343,6 +343,8 @@
   },
   "active": "845ad44fdf4f2834",
   "lastOpenFiles": [
+    "coding/Beck's Rule for Simple Design.md",
+    "coding/Five deisgn patterns to build resilient applications.md",
     "Untitled.canvas",
     "daily/2024-03-18.md",
     "daily/2024-01-31.md",
@@ -380,7 +382,6 @@
     "2023-01-06.md",
     "2023-03-14.md",
     "Emacs with json.md",
-    "Emacs Daemon.md",
     "EssentialistSoftware"
   ]
 }
