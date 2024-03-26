@@ -36,3 +36,10 @@ shift + k to get more documentation on where your cursor is
 wdt repos-pd -s --clean
 
 osadmin.request
+
+redux is just event sourcing with frontend
+propagate events thru event bus for all state changes
+
+connecting the dots for micro frontend with microservices
+
+use tactical stuff to execute strategis stufff
