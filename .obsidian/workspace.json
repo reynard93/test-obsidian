@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4db9b0b48297118d",
+        "id": "07fba8c34bb95c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "be5bed31a7be9c58",
+            "id": "eef00572f3f76f1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DDD using javascript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,12 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 734.5
+    "width": 200
   },
   "right": {
     "id": "d4cfa397030ca623",
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DDD using javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DDD using javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DDD using javascript.md"
+              }
             }
           },
           {
@@ -181,15 +188,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be5bed31a7be9c58",
+  "active": "eef00572f3f76f1e",
   "lastOpenFiles": [
+    "Chrome Clippings.md",
+    "DDD.md",
+    "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "EssentialistSoftware/How to Become a Better Frontend Architect.md",
     "daily/2024-03-26.md",
     "essentialist.dev  Master the Essentials of Software Design.md",
     "Form componentupgarde.md",
     "EssentialistSoftware/MVC frontend.md",
     "EssentialistSoftware/MVC backend.md",
-    "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "EssentialistSoftware/Code-first developer lesson 1.md",
     "EssentialistSoftware/3 Step Essentialist Process.md",
     "daily/2022-10-24.md",
@@ -213,7 +222,6 @@
     "Old form compoennts.md",
     "Formcomponents",
     "Vim.md",
-    "Chrome Clippings.md",
     "EssentialistSoftware/pipeline isolated ideas.md",
     "venkat-talks/Suckless code.md",
     "obsidian/tips.md",
@@ -221,7 +229,6 @@
     "EssentialistSoftware/WhiteBoard.canvas",
     "EssentialistSoftware/The Stereotypical (First Principles) Architecture.md",
     "daily/2022-11-07.md",
-    "daily/2022-11-01.md",
     "EssentialistSoftware"
   ]
 }
