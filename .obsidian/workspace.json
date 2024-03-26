@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "080ad2d0ec9ef4c4",
+        "id": "4db9b0b48297118d",
         "type": "tabs",
         "children": [
           {
-            "id": "814a05e3108a4c37",
+            "id": "be5bed31a7be9c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,11 +81,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 734.5
   },
   "right": {
     "id": "d4cfa397030ca623",
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EssentialistSoftware/Key takeaways from 1st QnA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +181,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "814a05e3108a4c37",
+  "active": "be5bed31a7be9c58",
   "lastOpenFiles": [
     "EssentialistSoftware/How to Become a Better Frontend Architect.md",
+    "daily/2024-03-26.md",
+    "essentialist.dev  Master the Essentials of Software Design.md",
+    "Form componentupgarde.md",
+    "EssentialistSoftware/MVC frontend.md",
+    "EssentialistSoftware/MVC backend.md",
+    "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "EssentialistSoftware/Code-first developer lesson 1.md",
     "EssentialistSoftware/3 Step Essentialist Process.md",
     "daily/2022-10-24.md",
@@ -214,21 +213,15 @@
     "Old form compoennts.md",
     "Formcomponents",
     "Vim.md",
-    "EssentialistSoftware/Key takeaways from 1st QnA.md",
     "Chrome Clippings.md",
-    "EssentialistSoftware/MVC backend.md",
     "EssentialistSoftware/pipeline isolated ideas.md",
     "venkat-talks/Suckless code.md",
     "obsidian/tips.md",
     "EssentialistSoftware/Systems Thinking.md",
     "EssentialistSoftware/WhiteBoard.canvas",
     "EssentialistSoftware/The Stereotypical (First Principles) Architecture.md",
-    "EssentialistSoftware/MVC frontend.md",
     "daily/2022-11-07.md",
     "daily/2022-11-01.md",
-    "daily/2022-10-23.md",
-    "work notes.md",
-    "WIP new form components.md",
     "EssentialistSoftware"
   ]
 }
